@@ -1,4 +1,30 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+   
+   
+</head>
+<body>
+
+<header>
+  <h1 align="center">Bienvenue, 👋quoi de neuf ?</h1>
+</header>
+
+<section>
+    <h2>À propos de moi</h2>
+    <p>Je suis un développeur web avec une vaste expérience dans l'utilisation des technologies modernes de programmation. Je crée des       applications web dynamiques en utilisant une large gamme de langages 
+    </p>
+</section>
+
+<section>
+  
+</section>
+
+
+
+
+
+
 
 ###
 
@@ -50,3 +76,16 @@
 </picture>
 
 ###
+<section>
+    <h2>المشاريع</h2>
+    <p>أنا أعمل على العديد من المشاريع المثيرة في الوقت الحالي. يمكنك الاطلاع على المشاريع الخاصة بي على <a href="https://github.com/YourUsername" target="_blank">GitHub</a>.</p>
+</section>
+
+<footer>
+    <p>&copy; 2026 نصرو - جميع الحقوق محفوظة</p>
+</footer>
+
+</body>
+</html>
+
+
